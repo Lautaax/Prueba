@@ -1,0 +1,15 @@
+1. ¿Qué es una API?
+Una API (Application Program Interface)
+Las APIs permiten que las aplicaciones se comuniquen 
+y puedan aprovechar desarrollos ya construidos en lugar de tener que crearlos desde cero.
+2. ¿Qué es DOCTYPE HTML?
+<!DOCTYPE> informa al navegador qué versión de HTML (o XML) se usó para escribir el documento.
+Ademas es una declaracion NO UNA ETIQUETA
+
+3. ¿Qué significa HTML, y cuál es su estructura básica?
+HTML (Lenguaje de marcado de hipertexto o HyperText Markup Language por sus siglas en inglés)
+Especifica la estructura de la pagina web 
+
+1: Apertura de etiqueta (EJ= P) , nombre de atributo (Ej :class ), valor del atributo (Ej : carta) 
+2: contenido
+3 etiqueta de cierre
